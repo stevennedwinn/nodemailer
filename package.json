@@ -6,12 +6,13 @@
   "scripts": {
     "start": "nodemon server"
   },
-  "author": "Krunal Lathiya",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.17.2",
     "ejs": "^2.5.7",
     "express": "^4.15.4",
+    "nodejs-nodemailer-outlook": "^1.2.4",
     "nodemailer": "^4.0.1"
   },
   "devDependencies": {
